@@ -2,13 +2,13 @@
 
 <p align="center"><img src="https://github.com/Bluemavim/Bluemavim/blob/main/Debbie%20Balboa%20art.gif" title="hover text"></p>
 
-Software Developer 🤓 
+Software Engineer 🤓 
 Arts Researcher 📚
 
-Skills: Python/ Java API Rest / Selenium / Data Science
+Skills: Kotlin/ Java/ Python / Docker / API Rest / Selenium / Kubernetes
 
-- 🔭 I’m currently working on Java API Rest with Springboot. 
-- 🌱 I’m currently learning : Machine Learning / IA 
+- 🔭 I’m currently working on Kotlin API Rest with Springboot. 
+- 🌱 I’m currently learning : Flutter
 - 👯 I’m looking to collaborate on : ICT4D and Digital Humanities Projects. 
 - 😄 Pronouns: She/Her. 
 
